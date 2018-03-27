@@ -412,9 +412,9 @@
 '''§ 1º''' Caso um membro sorteado faça parte de qualquer diretoria do CAESI, o sorteio é realizado novamente.
 
 
-§ 2º Caso não seja possível a realização do sorteio a partir da lista de presença da última Assembleia Geral, o sorteio pode ser feito utilizando de forma agregada os seguintes documentos:
-Lista de presença de qualquer Assembleia Geral;
-Lista de presença de qualquer cadeira do terceiro período do curso.
+'''§ 2º''' Caso não seja possível a realização do sorteio a partir da lista de presença da última Assembleia Geral, o sorteio pode ser feito utilizando de forma agregada os seguintes documentos:
+#Lista de presença de qualquer Assembleia Geral;
+#Lista de presença de qualquer cadeira do terceiro período do curso.
 
 ==TÍTULO VII - ANEXOS==
 
